@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Average of Numbers</title><script type="text/javascript">
+function average(array){
+var i,sum=0;
+for(i=0,i<array.length;i++)
+{
+sum+=array[i];
+}
+var avg=sum/array.length;
+return avg;
+}
+var numbers=new Array(3,4,13,8,30);
+document.write("Average of number of array=" + average(numbers));
+</script>
+</head>
+</html>

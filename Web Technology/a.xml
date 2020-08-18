@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college>GCET
+ <department>
+  <COMPUTER>
+	<student>
+	 <name>UPMANYU SHARMA </name>
+	 <rollno>19/17</rollno>
+	 <semester>6th</semester>
+	</student>
+	<faculty>
+	 <name>Cheena Sharma</name>
+	 <course>Web Technology </course>
+		</faculty>
+  </COMPUTER>
+  <CIVIL>
+	<student>
+	 <name>ahbbc </name>
+	 <rollno>19/17</rollno>
+	 <semester>6th</semester>
+	</student>
+	<faculty>
+	 <name>abcd</name>
+	 <course>Construction </course>
+	</faculty>
+  </CIVIL>
+ </department>
+</college>
+
+	
